@@ -1,0 +1,21 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Don't bake the dev DB into the image — it's regenerated at startup
+data/analytics.db
+data/analytics.db-wal
+data/analytics.db-shm
+
+# Don't bake secrets into the image
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/

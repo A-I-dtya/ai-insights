@@ -1,0 +1,51 @@
+movie_id,title,genre,release_date,release_year,director,budget_usd,revenue_usd,imdb_rating,rt_score,audience_score,runtime_min,language,synopsis
+1,Stellar Run,Sci-Fi,2024-08-15,2024,James Chen,85000000,245000000,8.2,87,91,118,English,Stellar Run is a thrilling sci-fi epic about humanity's first faster-than-light voyage.
+2,Dark Orbit,Action,2024-03-20,2024,Sarah Williams,120000000,178000000,7.1,65,72,124,English,A rogue astronaut battles a corrupt corporation in the asteroid belt.
+3,Last Kingdom,Historical Drama,2023-11-10,2023,Robert Mason,45000000,89000000,8.5,92,88,142,English,An epic retelling of the Viking age through the eyes of a displaced Saxon lord.
+4,Neon Pulse,Action,2025-02-14,2025,Diana Park,95000000,210000000,7.8,74,80,110,English,A cyber-enhanced detective hunts a digital terrorist in Neo-Tokyo.
+5,The Laughing House,Comedy,2025-01-20,2025,Tom Rivers,22000000,31000000,5.9,48,55,98,English,A dysfunctional family reunites for the holidays with predictably chaotic results.
+6,Crimson Tide Rising,Thriller,2024-09-05,2024,Elena Voss,55000000,120000000,7.6,79,83,115,English,A geopolitical thriller as a submarine crew faces a rogue nuclear launch order.
+7,Wildfire Season,Drama,2024-07-12,2024,Marcus Johnson,30000000,72000000,7.9,85,87,130,English,First responders tackle a deadly wildfire while their personal lives unravel.
+8,Funny Business,Comedy,2024-05-30,2024,Alice Moor,18000000,24000000,5.6,41,52,94,English,A hapless accountant accidentally becomes a stand-up comedian sensation.
+9,Echoes of Atlantis,Sci-Fi,2024-12-01,2024,James Chen,90000000,195000000,7.7,80,85,128,English,Archaeologists discover evidence that Atlantis was an alien colony.
+10,Harvest Moon,Romance,2025-03-08,2025,Priya Sharma,15000000,45000000,7.2,70,76,102,English,Two rival farmers fall in love during the harvest season.
+11,Iron Veil,Action,2023-06-15,2023,David Kim,110000000,230000000,7.5,71,79,132,English,An undercover agent must dismantle a global arms network.
+12,The Quiet Patient,Thriller,2024-10-18,2024,Elena Voss,40000000,98000000,8.0,88,84,120,English,A psychiatrist realises her new patient may be a serial killer.
+13,Summer Laughs,Comedy,2025-04-01,2025,Tom Rivers,20000000,27000000,5.8,44,57,90,English,A group of friends spend a disastrous summer at a rental beach house.
+14,Kingdom of Ash,Historical Drama,2024-04-22,2024,Robert Mason,65000000,140000000,8.3,90,89,148,English,The collapse of the Byzantine Empire seen through a family of merchants.
+15,Quantum Break,Sci-Fi,2025-01-05,2025,James Chen,75000000,160000000,7.5,78,82,114,English,A physicist discovers he can rewind time — but each reset has a cost.
+16,Heart of the City,Romance,2025-02-28,2025,Priya Sharma,12000000,38000000,6.8,62,70,98,English,A New York architect falls for her rival developer while fighting to save a landmark building.
+17,Rage Protocol,Action,2025-03-25,2025,Sarah Williams,100000000,185000000,7.2,69,75,120,English,Elite soldiers go rogue to expose a government black-site programme.
+18,The Beekeeper's Secret,Drama,2023-09-20,2023,Marcus Johnson,25000000,58000000,7.8,82,86,126,English,A dying beekeeper passes on his family secrets through cryptic letters.
+19,Shattered Glass,Thriller,2024-11-15,2024,Elena Voss,48000000,105000000,7.4,76,80,118,English,An investigative journalist uncovers a conspiracy reaching into the Supreme Court.
+20,Joke's on You,Comedy,2024-08-10,2024,Alice Moor,16000000,21000000,5.4,38,50,88,English,Three amateur comedians bet their savings on a comedy competition.
+21,Solar Drift,Sci-Fi,2023-05-18,2023,James Chen,70000000,155000000,7.6,79,83,116,English,A solo astronaut drifts off course and must survive with limited resources.
+22,Ember Days,Drama,2024-06-08,2024,Marcus Johnson,28000000,65000000,7.7,80,85,125,English,A small coal-mining town faces extinction as the last mine shuts down.
+23,Locked and Loaded,Action,2025-04-10,2025,David Kim,90000000,175000000,7.0,66,73,112,English,A weapons inspector gets caught in a coup d'état in Central Asia.
+24,Borrowed Time,Romance,2024-02-14,2024,Priya Sharma,14000000,42000000,7.0,68,74,100,English,A terminally ill musician finds love on a world tour that changes both their lives.
+25,The Crown of Thorns,Historical Drama,2023-12-25,2023,Robert Mason,55000000,115000000,8.1,89,87,145,English,The final days of Richard the Lionheart told from his captors' perspective.
+26,Cold Front,Thriller,2025-02-05,2025,Elena Voss,45000000,95000000,7.3,75,79,116,English,A forensic meteorologist proves a 'natural' disaster was engineered.
+27,Rise & Shine,Comedy,2023-07-04,2023,Tom Rivers,14000000,18000000,5.2,35,49,85,English,A morning-show producer and her rival host can't stand each other — until they can.
+28,The Last Pilgrim,Drama,2024-09-30,2024,Marcus Johnson,32000000,70000000,8.0,84,88,135,English,A solo walker completes the Camino de Santiago while processing grief.
+29,Vector Storm,Sci-Fi,2025-04-28,2025,James Chen,80000000,170000000,7.4,77,83,112,English,Earth's climate control AI becomes self-aware and begins terraforming cities.
+30,Blind Curve,Thriller,2023-08-22,2023,Sarah Williams,38000000,88000000,7.5,77,81,114,English,A blind pianist witnesses a murder and must navigate a cat-and-mouse pursuit.
+31,"Love, Actually Late",Romance,2025-01-15,2025,Priya Sharma,11000000,34000000,6.6,60,68,96,English,A mail carrier delivers a letter 20 years late — and changes two lives.
+32,The Warlord's Bride,Historical Drama,2024-03-10,2024,Robert Mason,48000000,102000000,7.9,84,85,140,English,A noblewoman outsmarts a conquering general to save her people.
+33,Deadlock,Action,2024-01-18,2024,David Kim,85000000,160000000,7.3,70,77,115,English,Hostage negotiators race against a bomb ticking inside a digital currency exchange.
+34,Midnight Bloom,Drama,2025-03-20,2025,Marcus Johnson,22000000,50000000,7.5,79,83,118,English,"A florist by day, jazz musician by night, faces choices that define who she really is."
+35,Pixel Perfect,Comedy,2025-04-15,2025,Alice Moor,17000000,22000000,5.7,42,54,91,English,A video-game developer accidentally releases their life into a game world.
+36,Second Sun,Sci-Fi,2024-11-22,2024,James Chen,95000000,205000000,8.0,83,88,126,English,Scientists harness a second star but discover it harbours an alien consciousness.
+37,Steel City Blues,Drama,2023-10-14,2023,Marcus Johnson,27000000,62000000,7.6,81,85,127,English,A steelworker fights to keep his plant open while battling personal demons.
+38,Rogue Alliance,Action,2025-02-22,2025,Sarah Williams,105000000,195000000,7.4,72,78,122,English,Two rival spy agencies must cooperate to stop a global blackout.
+39,Date Night Disaster,Comedy,2024-07-20,2024,Tom Rivers,19000000,26000000,5.5,40,53,92,English,Every obstacle imaginable ruins a couple's anniversary dinner.
+40,The Navigator,Historical Drama,2025-01-30,2025,Robert Mason,52000000,110000000,8.0,87,86,144,English,Ferdinand Magellan's circumnavigation through the eyes of his Malay interpreter.
+41,Shadow Protocol,Thriller,2024-05-05,2024,Elena Voss,50000000,112000000,7.6,78,82,118,English,A cyber-intelligence analyst discovers her own government is the enemy.
+42,Gravity Falls,Sci-Fi,2023-04-07,2023,James Chen,65000000,142000000,7.3,76,80,110,English,A team of engineers must save a crumbling orbital station before it deorbits over a city.
+43,Perfect Strangers,Romance,2024-11-08,2024,Priya Sharma,13000000,40000000,7.1,66,72,99,English,Two strangers on a cancelled flight spend 36 hours stranded in Iceland.
+44,The Siege of Troy,Historical Drama,2024-01-15,2024,Robert Mason,75000000,155000000,8.4,91,90,150,English,A revisionist take on the Trojan War from the perspective of the Trojans.
+45,Night Shift,Thriller,2025-03-01,2025,Elena Voss,42000000,92000000,7.2,74,78,112,English,A security guard at a museum uncovers a decades-old heist conspiracy.
+46,Three's a Crowd,Comedy,2023-11-25,2023,Alice Moor,15000000,20000000,5.3,37,51,88,English,Three roommates accidentally all fall for the same neighbour.
+47,Tidal Wave,Action,2024-08-30,2024,David Kim,92000000,168000000,7.1,67,74,118,English,A coastal city must evacuate before a mega-tsunami strikes.
+48,The Glass Garden,Drama,2025-04-05,2025,Marcus Johnson,20000000,48000000,7.4,80,84,122,English,A botanist cataloguing endangered plants stumbles upon a decades-old love story.
+49,Escape Velocity,Action,2025-05-01,2025,Sarah Williams,115000000,220000000,7.6,73,79,125,English,The world's fastest thief steals a satellite launch code — and must put it back.
+50,Stellar Run: Void,Sci-Fi,2026-08-01,2026,James Chen,150000000,0,0.0,0,0,130,English,Sequel to Stellar Run. The crew faces a void anomaly beyond the galaxy's edge. (In Production)
